@@ -3,13 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver | Hackathon Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Problem Solver </h3>
 
 <p align="center">
   <a href="mailto:guptaadityaind0007@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/aditya-gupta-b59715307/">LinkedIn</a> •
-  <a href="https://whisperwave.co">WhisperWave</a> •
-  <a href="https://www.cssnitdgp.in">CSS Website</a>
 </p>
 
 ---
