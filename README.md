@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver </h3>
+<h3 align="center">Problem Solver | Full-Stack Developer</h3>
 
 <p align="center">
   <a href="mailto:guptaadityaind0007@gmail.com">📧 Email</a> •
@@ -25,12 +25,23 @@ Currently pursuing **B.Tech in Computer Science & Engineering @ NIT Durgapur** (
 
 ### 🎯 What I Do
 
-- 🧾 **Full-Stack Development** – Creating end-to-end scalable web apps (Next.js + Golang + PostgreSQL)
-- 📊 **Finance Tech** – Building personal finance tools & trackers
-- 👨‍💻 **Problem Solving** – Solved 400+ problems on LeetCode, GFG, CodeChef & more
-- 🌐 **Hackathons** – Finalist in SIH, HP PowerLab, and other major events
-- 🧠 **Learning Systems** – Exploring system design, microservices, and architecture
+<table>
+<tr>
+<td>
+
+- 🧾 **Full-Stack Development** – Creating end-to-end scalable web apps (Next.js + Golang + PostgreSQL)<br>
+- 📊 **Finance Tech** – Building personal finance tools & trackers<br>
+- 👨‍💻 **Problem Solving** – Solved 400+ problems on LeetCode, GFG, CodeChef & more<br>
+- 🌐 **Hackathons** – Finalist in SIH, HP PowerLab, and other major events<br>
+- 🧠 **Learning Systems** – Exploring system design, microservices, and architecture<br>
 - 🧑‍🏫 **Community Roles** – CSS NIT DGP, E-Cell IIT Bombay, and Careers360 ambassador
+
+</td>
+<td>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -66,6 +77,12 @@ Currently pursuing **B.Tech in Computer Science & Engineering @ NIT Durgapur** (
 | **HP Power Lab** | Top 180 out of 1.3L+ teams | 99.86 Percentile |
 | **Flipkart Grid 6.0** | Participant | National Exposure |
 | **Adobe Hackathon** | Participant | Product Ideation |
+| **Walmart Sparkathon** | Participant | Product Ideation |
+| **Amazon Hackon** | Participant | Product Ideation |
+| **Createch** | Participant | Product Ideation |
+| **EY Technathon** | Participant | Developed Doctor's AI Dashboard |
+| **Tata Crucible** | Participant | Product Ideation |
+| **ICC - Case Study** | Participant | Structured consulting-style case recommendation |
 | **Careers360 Ambassador** | May–June 2025 | Student Outreach, Business Marketing |
 | **E-Cell, IIT Bombay Ambassador** | June 2025 – Present | Entrepreneurial Engagement |
 | **400+ DSA Problems** | LeetCode, GFG, CodeChef, AtCoder | Consistent Problem Solving |
