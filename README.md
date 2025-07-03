@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" height="240"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
 <h3 align="center">Problem Solver | Full-Stack Developer</h3>
@@ -73,16 +70,16 @@ Currently pursuing **B.Tech in Computer Science & Engineering @ NIT Durgapur** (
 
 | 🏅 Achievement | 📜 Details | 🚀 Impact |
 |----------------|------------|-----------|
-| **SIH 2024** | Semi-Finalist | National Level Innovation |
 | **HP Power Lab** | Top 180 out of 1.3L+ teams | 99.86 Percentile |
-| **Flipkart Grid 6.0** | Participant | National Exposure |
-| **Adobe Hackathon** | Participant | Product Ideation |
+| **SIH 2024** | Semi-Finalist | National Level Innovation |
+| **Adobe India Hackathon** | Participant | Product Ideation |
 | **Walmart Sparkathon** | Participant | Product Ideation |
 | **Amazon Hackon** | Participant | Product Ideation |
 | **Createch** | Participant | Product Ideation |
 | **EY Technathon** | Participant | Developed Doctor's AI Dashboard |
 | **Tata Crucible** | Participant | Product Ideation |
 | **ICC - Case Study** | Participant | Structured consulting-style case recommendation |
+| **Flipkart Grid 6.0** | Participant | National Exposure |
 | **Careers360 Ambassador** | May–June 2025 | Student Outreach, Business Marketing |
 | **E-Cell, IIT Bombay Ambassador** | June 2025 – Present | Entrepreneurial Engagement |
 | **400+ DSA Problems** | LeetCode, GFG, CodeChef, AtCoder | Consistent Problem Solving |
