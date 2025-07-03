@@ -14,13 +14,25 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science @ **NIT Durgapur**
-- 💡 Currently building a **Finance Tracker App**
-- 💼 Ex-SDE at **WhisperWave** – real-time therapy platform
-- 🛠️ Passionate about **DSA**, **Full-Stack Web Dev**, and **Hackathons**
-- 📫 Reach me at: `guptaadityaind0007@gmail.com`
+> *"Building impactful tech, one project at a time."*
+
+I'm a **tech-driven developer**, **problem solver**, and **community contributor**, passionate about building real-world products using modern web technologies. I specialize in **full-stack development**, with strong foundations in **DSA** and backend architecture.  
+Currently pursuing **B.Tech in Computer Science & Engineering @ NIT Durgapur** (2023–2027).
+
+<p align="right">
+  <img src="./09c7af13-16a7-4622-b607-66af638a3980.png" width="300"/>
+</p>
+
+### 🎯 What I Do
+
+- 🧾 **Full-Stack Development** – Creating end-to-end scalable web apps (Next.js + Golang + PostgreSQL)
+- 📊 **Finance Tech** – Building personal finance tools & trackers
+- 👨‍💻 **Problem Solving** – Solved 400+ problems on LeetCode, GFG, CodeChef & more
+- 🌐 **Hackathons** – Finalist in SIH, HP PowerLab, and other major events
+- 🧠 **Learning Systems** – Exploring system design, microservices, and architecture
+- 🧑‍🏫 **Community Roles** – CSS NIT DGP, E-Cell IIT Bombay, and Careers360 ambassador
 
 ---
 
@@ -48,27 +60,15 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔊 [Whisper Wave](https://whisperwave.co)
-Anonymous therapy platform with real-time audio chat  
-→ *Next.js, TypeScript, Golang, PostgreSQL, AWS*
-
-### 🌐 [CSS Website, NIT Durgapur](https://www.cssnitdgp.in)
-Official site for the Computer Science Society  
-→ *Next.js, TypeScript, CSS*
-
----
-
 ## 🏆 Achievements & Recognition
 
 | 🏅 Achievement | 📜 Details | 🚀 Impact |
 |----------------|------------|-----------|
 | **SIH 2024** | Semi-Finalist | National Level Innovation |
 | **HP Power Lab** | Top 180 out of 1.3L+ teams | 99.86 Percentile |
-| **Flipkart Grid 6.0** | Pre-Nationalist | National Exposure |
-| **Adobe Hackathon** | Participated | Product Ideation |
-| **Careers360 Ambassador** | May–June 2025 | Student Outreach |
+| **Flipkart Grid 6.0** | Participant | National Exposure |
+| **Adobe Hackathon** | Participant | Product Ideation |
+| **Careers360 Ambassador** | May–June 2025 | Student Outreach, Business Marketing |
 | **E-Cell, IIT Bombay Ambassador** | June 2025 – Present | Entrepreneurial Engagement |
 | **400+ DSA Problems** | LeetCode, GFG, CodeChef, AtCoder | Consistent Problem Solving |
 
@@ -83,6 +83,18 @@ Official site for the Computer Science Society
 - 🎯 **Campus Ambassador**
   - **Careers360** (May–June 2025)
   - **E-Cell, IIT Bombay** (June 2025 – Present)
+
+---
+
+## 🚀 Projects
+
+### 🔊 [Whisper Wave](https://whisperwave.co)
+Anonymous therapy platform with real-time audio chat  
+→ *Next.js, TypeScript, Golang, PostgreSQL, AWS*
+
+### 🌐 [CSS Website, NIT Durgapur](https://www.cssnitdgp.in)
+Official site for the Computer Science Society  
+→ *Next.js, TypeScript, CSS*
 
 ---
 
